@@ -1,0 +1,21 @@
+# Hardhat files
+cache
+artifacts
+.encryptedKey.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# vscode
+.vscode
+
+#Hardhat files
+cache
+artifacts
+.DS_Store
+gas-report.txt
+deployments
+
